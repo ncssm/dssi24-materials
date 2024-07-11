@@ -1,0 +1,9 @@
+Target,Source,Weights
+Taylor,Kate,1
+Taylor,Robert 1,1
+Taylor,Shaun,1
+Taylor,Doug,1
+Kate,Taylor,1
+Robert 1,Taylor,1
+Shaun,Kate,1
+Doug,Taylor,1
